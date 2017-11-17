@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ImplicitIntentAssignment</string>
+    <string name="title">Implicit Intent Assignment</string>
+    <string name="url">URL:</string>
+    <string name="url_hint">Enter URL</string>
+    <string name="default_url">http://www.sjsu.edu</string>
+    <string name="launch_btn">Launch URL</string>
+    <string name="phone">Phone:</string>
+    <string name="phone_hint">(xxx) xxx-xxxx</string>
+    <string name="ring_btn">Ring</string>
+    <string name="close_app_btn">Close App</string>
+
+
+</resources>
